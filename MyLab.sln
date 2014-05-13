@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Web
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLab", "MyLab\MyLab.csproj", "{CFDA1E02-64BE-4F9D-953B-57D6D1E8AE73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLab.Domain", "MyLab.Domain\MyLab.Domain.csproj", "{C57BED3B-2C24-4F24-886B-390AC13267A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLab.Service", "MyLab.Service\MyLab.Service.csproj", "{D4929DE3-435B-451F-9D3A-9E5847566634}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{CFDA1E02-64BE-4F9D-953B-57D6D1E8AE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFDA1E02-64BE-4F9D-953B-57D6D1E8AE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFDA1E02-64BE-4F9D-953B-57D6D1E8AE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C57BED3B-2C24-4F24-886B-390AC13267A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57BED3B-2C24-4F24-886B-390AC13267A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57BED3B-2C24-4F24-886B-390AC13267A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57BED3B-2C24-4F24-886B-390AC13267A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4929DE3-435B-451F-9D3A-9E5847566634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4929DE3-435B-451F-9D3A-9E5847566634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4929DE3-435B-451F-9D3A-9E5847566634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4929DE3-435B-451F-9D3A-9E5847566634}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
